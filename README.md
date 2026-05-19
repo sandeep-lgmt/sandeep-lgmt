@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm Sandeep Kumar Nishad</h1>
-<h3 align="center">Entry-Level Software Development Engineer | Java • DSA • React</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Kumar Nishad</h1>
+<h3 align="center">Software Developer | Java • Spring Boot • AWS • DSA</h3>
 
 <p align="center">
   <a href="mailto:sundeepnishad4@gmail.com">
     <img src="https://img.shields.io/badge/Email-sundeepnishad4%40gmail.com-red?style=flat&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/sandeep-kumar77">
+  <a href="https://linkedin.com/in/sandeepkumar77">
     <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Nishad-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://github.com/sandeep-lgmt">
@@ -16,27 +16,36 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (CGPA: 8.67)
-- 💻 Strong fundamentals in **Java, Data Structures & OOP**
-- ⚙️ Interested in **scalable backend systems & clean architecture**
-- 🌱 Currently improving **problem-solving & system design**
-- 🎯 Seeking **SDE / Software Engineer** opportunities
+- 🎓 B.Tech in Computer Science (CGPA: 8.67/10)
+- 💻 Backend-focused developer with strong foundations in **Java, OOP & DSA**
+- ⚙️ Experienced in building **REST APIs, AWS-based applications & scalable backend systems**
+- ☁️ Skilled with **Spring Boot, AWS SDK v2, MySQL & DynamoDB**
+- 🌱 Currently learning **System Design & Cloud Security**
+- 🎯 Looking for **Software Engineer / Backend Engineer** opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Web & Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+### Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
@@ -44,17 +53,21 @@
 
 ## 📌 Featured Projects
 
-### 🔗 URL Shortener (Java)
-- O(1) URL mapping using **HashMap**
-- Duplicate handling & scalable OOP design
+### ☁️ Cloud Posture Scanner
+- Built a CSPM tool using **Java, Spring Boot & AWS SDK v2**
+- Scanned AWS resources across **S3, EC2, IAM & CloudTrail**
+- Implemented automated **CIS benchmark security checks**
+- Used **DynamoDB** for scalable persistence and REST APIs for monitoring
 
-### 🧠 LRU Cache Implementation
-- **HashMap + Doubly Linked List**
-- O(1) `get()` and `put()` operations
+### 📧 Context-Aware Priority Mail Router
+- Backend email classification system using **Java + JDBC + MySQL**
+- Configurable rule engine for dynamic email routing
+- Optimized rule evaluation using short-circuit processing
 
-### 💸 Expense Tracker (React)
-- Responsive UI with reusable components
-- Efficient state management using modern JS
+### 🖥️ Employee Activity Tracker
+- Built a desktop monitoring agent with **AWS S3 & Cognito**
+- Implemented screenshot capture, MFA authentication & system health checks
+- Added auto-update mechanism for reliability across environments
 
 ---
 
@@ -68,17 +81,28 @@
 ---
 
 ## 📈 Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sandeep-lgmt" />
 </p>
 
 ---
 
-## 🤝 Open To
-- SDE / Software Engineer roles  
-- Java Backend & Full Stack opportunities  
-- Learning, collaboration, and mentorship  
+## 🏆 Certifications & Achievements
+- Oracle Certified: Java SE 8 Programmer I (1Z0-808)
+- HackerRank Gold Badge in Java
+- AWS Cloud Training Completion Certificate
+- Solved 117+ LeetCode problems including Hard-level challenges
+- Participant — KPMG Capture The Flag Cybersecurity Hackathon
 
 ---
 
-⭐ *If you like my work, consider starring my repositories*
+## 🤝 Open To
+- Software Developer Roles  
+- Software Engineer Opportunities  
+- Java & Cloud Development Projects  
+- Open Source Collaboration & Learning  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
