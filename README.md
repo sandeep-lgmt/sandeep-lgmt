@@ -105,12 +105,6 @@
   <img src="https://streak-stats.demolab.com?user=sandeep-lgmt&background=0D1117&stroke=7B2FF7&ring=B026FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=B026FF&dates=9CA3AF&border=7B2FF7" />
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep-lgmt&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true" width="100%"/>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications & Achievements
